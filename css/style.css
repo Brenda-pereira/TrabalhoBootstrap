@@ -1,0 +1,16 @@
+/* Regras Gerais */
+
+*{
+	box-sizing: border-box;
+}
+  
+body{
+    background-color: rgb(242, 239, 245);
+}
+nav class="navbar navbar-expand-lg navbar-light bg-light"
+    background-color: rgb(190, 180, 199);
+}
+.footer  {
+    padding-top: 450px;
+
+      }
